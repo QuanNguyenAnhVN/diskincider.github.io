@@ -1,0 +1,44 @@
+body{
+    line-height: 1.5;
+}
+
+/* Header
+=============================================================== */
+.header{
+    background-color: gray;
+}
+
+
+
+/* Slider
+=============================================================== */
+.carousel-item {
+    background-color: black;
+}
+
+.carousel-item img{
+    opacity: 0.5;
+    
+}
+
+.carousel-caption{
+    top:40%;
+}
+
+.carousel-caption .carousel-text{
+    border-radius: 20px;
+    margin: auto;
+    width: 500px;
+    margin-bottom: 10px;
+    border: 5px solid #dedbdb;
+    padding: 15px;
+    font-size: 50px;
+    animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
+/* Footer
+=============================================================== */
+
+.footer{
+    
+}
